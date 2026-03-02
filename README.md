@@ -7,8 +7,8 @@
 <h3 align></h3>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=saloraxz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saloraxz&layout=compact&theme=tokyonight&langs_count=10" />
+<img src="https://github-stats-seven-mu.vercel.app/api?username=saloraxz&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
+<img src="https://github-stats-seven-mu.vercel.app/api/top-langs/?username=saloraxz&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
 
 |![](https://activity-graph.herokuapp.com/graph?username=saloraxz&theme=redical)|
