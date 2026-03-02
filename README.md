@@ -11,8 +11,7 @@
 <img src="https://github-stats-seven-mu.vercel.app/api/top-langs/?username=saloraxz&layout=compact&theme=tokyonight&langs_count=10" />
 </p>
 
-|![](https://activity-graph.herokuapp.com/graph?username=saloraxz&theme=redical)|
-|-|
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=saloraxz)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <h3 align="center">Github Contributions</h3>
 
